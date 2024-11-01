@@ -9,6 +9,7 @@ module.exports = {
     fontFamily: {
       'iter' : ["Inter", 'sans-serif'],
       'cormorant' : ["Cormorant Garamond", 'serif'],
+      'DM' : ["DM Sans", 'sans-serif'],
     },
     extend: {
       colors: {
