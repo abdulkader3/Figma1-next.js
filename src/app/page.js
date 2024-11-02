@@ -22,6 +22,8 @@ export default function Home() {
     <Affordable/>
     {/* I showed laziness */}
 
+    
+
     </>
   );
 }
