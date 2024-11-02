@@ -10,7 +10,7 @@ const Homecompo = () => {
           <div className=" mb-[40px] ">
             <div className="">
               <h1 className="text-[86px] font-cormorant w-[482px] text-white ">
-                Love to capture the best moments
+                Love to <span className=" underline">capture</span> the best <span className=" underline">moments</span>
               </h1>
               <p className=" mt-20 text-[18px] font-normal font-DM text-white w-[426px]  ">
                 Distinctively re-engineer process-centric growth strategies

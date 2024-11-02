@@ -10,6 +10,7 @@ module.exports = {
       'iter' : ["Inter", 'sans-serif'],
       'cormorant' : ["Cormorant Garamond", 'serif'],
       'DM' : ["DM Sans", 'sans-serif'],
+      'Oswald' : ["Oswald", 'sans-serif'],
     },
     extend: {
       colors: {
